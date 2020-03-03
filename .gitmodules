@@ -1,0 +1,3 @@
+[submodule "src/GMatch4py"]
+	path = src/GMatch4py
+	url = https://github.com/FlorianWestphal/GMatch4py.git
